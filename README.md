@@ -29,4 +29,4 @@ INTEGRANTES:
 
 [![Watch the video](https://github.com/joffrehermosilla/makeupverse/blob/master/logoconcurso.JPG)](https://youtube.com/shorts/TZKM-_Vnp7g)
 
-![ScreenShot](https://github.com/joffrehermosilla/makeupverse/commit/716b4622707914fd796eea35ac5d8e182c2135f4) 
+![ScreenShot](https://github.com/joffrehermosilla/makeupverse/blob/master/makeupverse-Propuesta.jpg) 
